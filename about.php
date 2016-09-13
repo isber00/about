@@ -7,7 +7,6 @@ class about
     private $phone;     // 手机
     private $place;     // 籍贯
     private $email;     // 邮箱
-    private $hobby;     // 爱好
     private $address;   // 住址
     private $money;     // 薪资
     private $work;      // 工作
@@ -31,7 +30,6 @@ class about
         $this->phone     = $attr['phone'];
         $this->place     = $attr['place'];
         $this->email     = $attr['email'];
-        $this->hobby     = $attr['hobby'];
         $this->address   = $attr['address'];
         $this->money     = $attr['money'];
         $this->work      = $attr['work'];
