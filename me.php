@@ -2,14 +2,14 @@
 include_once 'about.php';
 
 $attr = array(
-    'name'      => '叶永俊',
-    'age'       => 22,
+    'name'      => '叶XX',
+    'age'       => 23,
     'sex'       => '男',
-    'phone'     => '14718442269',
+    'phone'     => '14718*****9',
     'place'     => '广东梅州',
     'email'     => 'infeeling@yeah.net',
     'address'   => '广州天河',
-    'money'     => 8000,
+    'money'     => 1000,
     'work'      => '广州天河',
     'education' => '大专',
     'img'       => 'img.jpg',
